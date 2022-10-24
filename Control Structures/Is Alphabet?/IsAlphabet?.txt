@@ -1,0 +1,23 @@
+Is Alphabet?
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+Write a program to check whether character is an alphabet or not using conditional operator.
+
+Input
+The first line of the input contains a character ch.
+
+Constraints
+'a', 'A' <= ch <= 'z', 'Z'
+
+Output
+Print "YES" if it's alphabet otherwise "NO".
+
+Example
+Sample Input :
+a
+
+Sample Output
+YES
