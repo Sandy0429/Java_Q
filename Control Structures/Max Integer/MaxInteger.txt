@@ -1,0 +1,29 @@
+Max Integer
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+Given three integers your task is to calculate the maximum integer among the given integers.
+
+Input
+The input contains three integers a, b, and c
+
+Constraint:
+1<=integers<=10000
+
+Output
+Print the maximum integer among the given integers.
+
+Example
+Sample Input:-
+2 6 3
+
+Sample Output:-
+6
+
+Sample Input:-
+48 100 100
+
+Sample Output:
+100
