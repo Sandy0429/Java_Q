@@ -1,0 +1,23 @@
+Max in Three Numbers
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+Write a program to input three numbers from user and find maximum between three numbers using ternary operator
+
+Input
+The first line of the input contains three numbers a, b and c.
+
+Constraints
+1<= a, b, c <= 1e9
+
+Output
+Print the maximum Number
+
+Example
+Sample Input
+12 14 15
+
+Sample Output
+15
