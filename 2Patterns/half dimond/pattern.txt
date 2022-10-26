@@ -1,0 +1,13 @@
+Pattern:
+
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
+
+formula: totalColsInRow = i>n ? 2*n-i : i; //i=row no; n =total rows
