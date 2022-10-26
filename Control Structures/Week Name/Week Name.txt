@@ -1,0 +1,25 @@
+Week Name
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+Write a program to print day of week name using switch case.
+
+Input
+The first line of the input contains week number
+
+Constraints
+1 <= weekNumber <= 7
+
+Output
+Print Week day Name.
+
+Note Intitals must be capitals
+
+Example
+Sample Input :
+3
+
+Sample Output :
+Wednesday
