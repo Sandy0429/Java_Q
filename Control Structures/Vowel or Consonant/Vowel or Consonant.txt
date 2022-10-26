@@ -1,0 +1,27 @@
+Vowel or Consonant
+
+Problem Statement
+Given a letter of lowercase English alphabet, your task is to determine whether it is a vowel or a consonant.
+
+Input
+User task:
+Since this is a functional problem you don't have to worry about the input. You just have to complete the function VowelorConsonant() which contains M as a parameter.
+
+Constraints:-
+'a' <= alpha <= 'z'
+
+Output
+Print C if the given alphabet is Consonant else Print V.
+
+Example
+Sample Input:-
+a
+
+Sample Output:-
+V
+
+Sample Input:-
+b
+
+Sample Output:-
+C
