@@ -1,0 +1,23 @@
+Total days
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+Write a program print total number of days in a month using switch case.
+
+Input
+First line of the input contains Month Number
+
+Constraints
+1 <= Month <= 12
+
+Output
+Print total number of days in a month (in general).
+
+Example
+Sample Input :
+3
+
+Sample Output :
+31
