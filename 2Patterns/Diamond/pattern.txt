@@ -1,0 +1,17 @@
+Pattern:
+
+    * 
+   * * 
+  * * * 
+ * * * * 
+* * * * * 
+ * * * * 
+  * * * 
+   * * 
+    * 
+
+Formulas:
+
+int totalColsInRow = i>n ? 2*n-i : i; 
+
+int  spaces = n-totalColsInRow;
