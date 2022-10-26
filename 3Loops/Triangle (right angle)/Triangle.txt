@@ -1,0 +1,21 @@
+Triangle (right angle)
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+In this task you need to print a right angle triangle of height 5.
+
+Input
+No input
+
+Output
+Print the right angle triangle of height 5 as shown.
+
+Example
+Sample Output:-
+*
+* *
+* * *
+* * * *
+* * * * *
