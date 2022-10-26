@@ -1,0 +1,18 @@
+Pattern:
+
+        1 
+      2 1 2 
+    3 2 1 2 3 
+  4 3 2 1 2 3 4 
+5 4 3 2 1 2 3 4 5 
+  4 3 2 1 2 3 4 
+    3 2 1 2 3 
+      2 1 2 
+        1 
+        
+        
+  Formula:  int column = i>n ? 2*n-i : i ; 
+                
+                for(int s=0; s<n-column;s++)
+                {
+                    System.out.print("  ");
