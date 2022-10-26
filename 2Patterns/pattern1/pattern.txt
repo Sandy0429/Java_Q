@@ -1,0 +1,9 @@
+pattern:
+
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
+                    
+              formula: column= n-row;
