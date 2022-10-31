@@ -1,0 +1,42 @@
+Print square
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+Given an integer N. You need to print the squares of all numbers from 1 to N in different lines.
+
+Input
+The only input line contains an integer N.
+
+Constraints:
+1 <= N <= 1000
+Output
+Print N lines where the i- th line (1-based indexing) contains an integer i2.
+
+Example
+Sample Input 1:
+4
+
+Output:
+1
+4
+9
+16
+
+Explanation:
+1*1 = 1
+2*2 = 4
+3*3 = 9
+4*4 = 16
+
+Sample Input 2:
+2
+
+Output:
+1
+4
+
+Explanation:
+1*1 = 1
+2*2 = 4
