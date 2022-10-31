@@ -1,0 +1,29 @@
+Value of PI
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+Given an integer N. Print the value of PI with precision upto N decimal places.
+
+Input
+The only input line contains an integer N.
+
+Constraints:
+1 <= N <= 10
+
+Output
+Print the value of PI.
+
+Example
+Sample Input 1:
+4
+
+Output:
+3.1416
+
+Sample Input 2:
+10
+
+Output:
+3.1415926536
