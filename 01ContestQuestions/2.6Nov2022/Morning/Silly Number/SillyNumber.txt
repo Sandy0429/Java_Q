@@ -1,0 +1,37 @@
+Silly Number
+easy
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+A number is called Silly if it can be represented as the sum of the square of consecutive natural numbers starting from 1.
+For a given number N, find the closest silly number.
+
+Input
+User Task:
+Since this will be a functional problem, you don't have to take input. You just have to complete the function SillyNumber() that takes integer N as argument.
+
+Constraints:-
+1 <= N <= 100000
+
+Output
+Return the closest Silly number.
+
+Note:- If more than one answer exists return the minimum one.
+
+Example
+Sample Input:-
+18
+
+Sample Output:-
+14
+
+Explanation:-
+1*1 + 2*2 + 3*3 = 14
+
+Sample Input:-
+2
+
+Sample Output:-
+1
