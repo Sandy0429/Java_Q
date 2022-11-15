@@ -1,0 +1,35 @@
+Consecutives(Contest)
+easy
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+You are asked Q questions. For each question, you have to determine whether the given number X can be represented as a sum of two or more consecutive positive integers. For example, the answer for X=9 is Yes as 9=2+3+4 while the answer for 2 is No (note that (−1)+0+1+2=2 is invalid as only positive integers are allowed).
+
+Input
+The first line contains a single integer, Q, denoting the number of questions
+(1≤ Q ≤ 100).
+
+In each of the next Q lines, a positive integer X is given (1 ≤ X ≤ 10^9).
+
+Output
+For each of the Q questions, print the answer in a single line: either Yes or No.
+
+Example
+sample input
+6
+1
+2
+10
+20
+100
+200
+
+sample output
+No
+No
+Yes
+Yes
+Yes
+Yes
