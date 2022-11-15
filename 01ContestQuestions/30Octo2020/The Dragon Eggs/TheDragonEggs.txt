@@ -1,0 +1,33 @@
+The Dragon Eggs
+easy
+
+Time Limit: 1 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+Daemon has 2 dragon eggs, one is made of A grams of Gold and the other is made of B grams of Silver.
+
+We know that Gold costs G coins per gram and Silver costs S coins per gram. You need to determine which of the two dragon eggs are more valuable.
+
+Input
+The input contains 4 space-separated integers G, S, A, B.
+
+Constraints:
+1 ≤ G, S, A, B ≤ 104
+
+Output
+Print "Gold" (without quotes) if the Gold egg costs equal to or more than the silver egg. Otherwise, print "Silver" (without quotes).
+Note that the output is case-sensitive.
+
+Example
+Sample Input 1:
+5 4 4 5
+
+Sample Output 1:
+Gold
+
+Sample Input 2:
+1 1 2 3
+
+Sample Output 2:
+Silver
