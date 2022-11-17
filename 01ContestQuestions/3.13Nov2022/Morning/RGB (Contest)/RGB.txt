@@ -1,0 +1,31 @@
+RGB (Contest)
+easy
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+A tuple (R, G, B) is considered good if R*G+B <= N and R, G and B are all positive. Given N, find number of good tuples.
+
+Input
+Input contains a single integer N.
+
+Constraints:
+1 <= N <= 1000000
+
+Output
+Print number of good tuples.
+
+Example
+Sample Input
+3
+
+Sample Output
+4
+
+Explanation:
+Following are the good tuples:
+(1, 1, 1)
+(1, 1, 2)
+(1, 2, 1)
+(2, 1, 1)
