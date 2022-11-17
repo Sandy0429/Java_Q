@@ -1,0 +1,36 @@
+Sum of Equation(II)
+easy
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+Given a number N, find the value of the below Equation for the given number.
+Equation: -
+
+N
+∑ {(X - 1)3 + 3(X + 1)2 + 2}
+X = 1
+
+Input
+User task:
+Since this is a functional problem, you don’t have to worry about the input, you just have to complete the function equationSum(), where you will get N as a parameter.
+
+Constraints:
+1 <= N <= 100
+
+Output
+Return the sum of equation.
+
+Example
+Sample Input:-
+1
+
+Sample Output:-
+14
+
+Sample Input:-
+2
+
+Sample Output:-
+44
