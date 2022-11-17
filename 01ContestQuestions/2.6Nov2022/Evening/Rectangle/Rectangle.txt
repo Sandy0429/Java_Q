@@ -1,0 +1,36 @@
+Rectangle
+medium
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+Give integer values M and N. Using the character ‘*’ draw a rectangle of height M and breadth N.
+
+Input
+The input contains two integers M and N.
+
+Constraints:-
+3 <= M, N <= 20
+
+Output
+Print the rectangle as shown in the example
+
+Example
+Sample Input:-
+3 3
+
+Sample Output:-
+***
+* *
+***
+
+Sample Input:-
+5 3
+
+Sample Output:-
+***
+* *
+* *
+* *
+***
