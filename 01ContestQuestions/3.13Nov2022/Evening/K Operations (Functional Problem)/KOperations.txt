@@ -1,0 +1,42 @@
+K Operations (Functional Problem)
+easy
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+Given an integer N and an integer K, Your task is to multiply the first leftmost digit of the number to the number itself. You have to repeat this process K times.
+For eg:- if N=3 and K=5 then:
+3 * 3 = 9
+9 * 9 = 81
+81 * 8 = 648
+648 * 6 = 3888
+3888 * 3 = 11664
+
+Input
+User Task:
+Since this will be a functional problem, you don't have to take input. You just have to complete the function KOperations() that takes the integer N as parameter.
+
+Constraints:
+1 <= N <= 100
+1 <= K <= 10^9
+
+Output
+Return the Number after K operations
+
+Note: It is guaranteed that the output will always be less than 10^17.
+
+Example
+Sample Input:-
+3 5
+
+Sample Output:-
+11664
+
+Explanation:- See problem statement for explanation.
+
+Sample Input:-
+22 2
+
+Sample Output:-
+176
