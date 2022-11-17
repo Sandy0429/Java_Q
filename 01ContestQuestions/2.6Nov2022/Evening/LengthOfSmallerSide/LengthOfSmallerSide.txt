@@ -1,0 +1,23 @@
+Length of Smaller Side
+easy
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+Given a ring of radius x meters, if we convert this ring into a rectangle having side ratio of 2:1, what will be the length of the lesser side
+
+Input
+The first line of the input contains the radius of the circle.
+
+Constraints
+1 <= x <= 1000
+
+Output
+Print the length of the smaller side of the rectangle, upto 2 decimal places.
+Example
+Sample Input 1:
+7
+
+Sample Output 1:
+7.33
