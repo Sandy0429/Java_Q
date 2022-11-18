@@ -1,0 +1,38 @@
+Print the Matrix
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+Given a matrix of N*N dimensions. Take the input and display the matrix as an output.
+
+Input
+First line contains N.
+N lines follow each containing N space seperated integers.
+
+Constraints:-
+2 <= N <= 500
+1 <= Mat[i][j] <= 1000
+
+Output
+Print the given matrix.
+
+Example
+Input:
+2
+3 4
+7 6
+
+Output:
+3 4
+7 6
+
+Input:
+3
+1 2 3
+4 5 6
+7 8 9
+
+Output:
+1 2 3
+4 5 6
+7 8 9
