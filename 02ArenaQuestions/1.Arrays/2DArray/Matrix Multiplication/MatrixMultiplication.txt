@@ -1,0 +1,31 @@
+Matrix Multiplication
+Time Limit: 2 sec
+
+Memory Limit: 128000 kB
+Problem Statement
+Given two matrices A and B of size (M x N) and (N x P) respectively, Find matrix C, the product of matrix A and B.
+
+Matrix Multiplication
+
+Input
+First line contains three integers M, N and P as mentioned in problem statement.
+Next M lines contains N integers denoting the elements of matrix A
+Next N lines contains P integers denoting the elements of matrix B
+
+1 <= M, N, P <= 100
+1 <= A[i][j], B[i][j] <= 100
+
+Output
+Print M lines each containing P integers denoting the elements of matrix C respectively
+
+Example
+Sample input 1:
+2 2 2
+1 0
+0 1
+2 3
+1 0
+
+Sample output 1:
+2 3
+1 0
