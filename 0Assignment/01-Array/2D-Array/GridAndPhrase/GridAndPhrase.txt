@@ -1,0 +1,30 @@
+Grid and phrase
+easy
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+You are given an n*m grid which contains lower case English letters. How many times does the phrase "saba" appear horizontally, vertically, and diagonally in the grid?
+
+Input
+First line: Two integer n and m, where n denotes the number of rows and m denotes the number of columns in the grid
+Next n lines: Each line must contain a string of length m which contains lower- case English letters only
+
+Constraints:
+1<=n, m<=100
+
+Output
+Print the number of times the word “saba” appears in the grid.
+
+Example
+Sample Input 1:
+5 5
+s a f e r
+a m j a d
+b a b o l
+a a r o n
+s o n g s
+
+Sample Output 1:
+2
