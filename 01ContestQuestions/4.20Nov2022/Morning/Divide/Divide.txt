@@ -1,0 +1,34 @@
+Divide (Contest)
+easy
+
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+Given an integer N and M check if N candies can be divided in M people such that each person get equal number of candies.
+
+Input
+Input contains two integers N and M.
+
+Constraints:
+1 <= N <= 10^18
+1 <= M <= 10^18
+
+Output
+Print "Yes" if it is possible otherwise "No".
+
+Example
+Sample Input
+10 5
+
+Sample Output
+Yes
+
+Explanation: Give 2 candies to all.
+
+Sample Input:
+4 3
+
+Sample Output:
+No
