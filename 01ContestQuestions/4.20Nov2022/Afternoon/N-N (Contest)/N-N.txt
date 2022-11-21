@@ -1,0 +1,33 @@
+N-N (Contest)
+easy
+
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+Given an integer N, find its Nth smallest non negative integer that is divisible by N.
+
+Input
+The first and the only line of input contains an integer N.
+
+Constraints
+1 <= N <= 1000
+
+Output
+Output a single integer, the Nth smallest non negative multiple of N.
+
+Example
+Sample Input
+5
+
+Sample Output
+20
+
+Explanation: The 5th smallest integer divisible by 5 is 20. The smaller integers divisible by 5 are 0, 5, 10, and 15.
+
+Sample Input
+2
+
+Sample Output
+2
