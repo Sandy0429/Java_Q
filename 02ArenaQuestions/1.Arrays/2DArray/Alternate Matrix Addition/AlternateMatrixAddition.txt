@@ -1,0 +1,45 @@
+Alternate Matrix Addition
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+You are given a chessboard of size N x N, where the top left square is black. Each square contains a value. Find the sum of values of all black square and all white squares.
+
+Remember that in a chessboard black and white squares alternate.
+
+Input
+The first line of input will be the N size of the matrix. Then next N lines will consist of elements of the matrix. Each row will contain N elements since it is a square matrix.
+
+Constraints:-
+1 <= N <= 800
+1 <= Matrix[i][j] <= 100000
+
+Output
+Print two lines, first line containing the sum of black squares and second line containing the sum of white squares.
+
+Example
+Input:
+3
+1 2 3
+4 5 6
+7 8 9
+
+Output:
+25
+20
+
+Explanation:-
+black square contains 1, 3, 5, 7, 9; sum = 25
+white square contains 2, 4, 6, 8; sum = 20
+
+Sample Input:
+4
+1 2 3 4
+6 8 9 10
+11 12 13 14
+15 16 17 18
+
+Sample Output:
+80
+79
