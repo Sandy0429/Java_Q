@@ -1,0 +1,30 @@
+Identity matrix
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+given an integer N and a matrix of size (N x N). Check whether given matrix is identity or not.
+
+Input
+First line contain a single integer N
+Next N line contain N space- separated integer i. e. elements of matrix.
+
+Output
+If given matrix is identity matrix. print "Yes" other-wise print "NO"
+
+Constraints:
+1<=N<=100
+
+Example
+Sample Input 1:
+3
+1 0 0
+0 1 0
+0 0 1
+
+Sample Output 1:
+Yes
+
+Explanation:
+Given matrix is an identity matrix because all main diagonal elements are 1 and rest of elements are 0.
