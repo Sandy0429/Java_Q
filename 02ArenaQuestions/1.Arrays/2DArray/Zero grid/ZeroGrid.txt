@@ -1,0 +1,31 @@
+Zero grid
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+Given a 2x2 binary grid. In one operation you can select one row and one column and make all elements of that row and that column zero. Print the minimum number of operation needed so all elements of the
+grid becomes zero.
+
+Input
+The testcase contains the elements of grid
+
+Constraints:
+Grid Size is always 2X2.
+Grid contains only 0 or 1.
+
+Output
+A single integer denoting answer.
+
+Example
+Input:
+0 1
+1 0
+
+Output:
+1
+
+Explanation:
+Select 0- th row and 0- th column.
+set elements in 0- th row as 0.
+set elements in 0- th column 0.
