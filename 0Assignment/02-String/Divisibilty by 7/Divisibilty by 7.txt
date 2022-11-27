@@ -1,0 +1,24 @@
+Divisibilty by 7
+medium
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+Given an n-digit large number in form of string, check whether it is divisible by 7 or not. Print 1 if divisible by 7, otherwise 0.
+
+Input
+There is a number num is given in input.
+
+Constraint:
+1 ≤ |num| ≤ 10^5
+
+Output
+Print 1 if num is divisible by 7, otherwise 0.
+
+Example
+Sample Input:
+8955795758
+
+Sample Output:
+1
