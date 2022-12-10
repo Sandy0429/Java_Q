@@ -1,0 +1,32 @@
+Smallest positive missing number
+asked in interviews by 1 company
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+Given an array of N integers, your task is to find the smallest positive number which is not present in the given array.
+
+Input
+First line of input contains a single integer N, next line contains N space separated integers depicting the values of array.
+
+Constraints:-
+1 < = N < = 1000000
+-10^6 < = Arr[i] < = 10^6
+
+Output
+Print the smallest positive integer not present in the given array.
+
+Example
+Sample Input:-
+5
+-2 1 0 4 5
+
+Sample Output:-
+2
+
+Sample Output:-
+4
+-1 1 2 3
+
+Sample Output:-
+4
