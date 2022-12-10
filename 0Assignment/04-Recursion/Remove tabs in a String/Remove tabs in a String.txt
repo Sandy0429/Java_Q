@@ -1,0 +1,28 @@
+Remove tabs in a String
+easy
+asked in interviews by 1 company
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+Write a recursive program to remove all tabs or spaces from a string.
+
+Input
+The first line contains the string s.
+
+Constraints:
+0
+
+Output
+Prints the string after removing all the tabs and spaces.
+
+Example
+Sample Input:
+Hello World
+
+Sample Output:
+HelloWorld
+
+Explanation:
+The string "Hello World" after removing spaces is "HelloWorld".
