@@ -1,0 +1,35 @@
+Reduce to 1
+easy
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+Given an integer N which is to be reduced to 1 by performing the given operation:-
+In one operation you can subtract any divisor of N other than N itself from N.
+Your task is to find the minimum number to reduce N to 1.
+
+Input
+The input contains a single integer N.
+
+Constraints:-
+1 <= N <= 1000
+
+Output
+Print the minimum number of operations need to convert N to 1.
+
+Example
+Sample Input:-
+5
+
+Sample Output:-
+3
+
+Explanation:-
+5 - > 4 - > 2 - > 1
+
+Sample Input:-
+8
+
+Sample Output:-
+3
