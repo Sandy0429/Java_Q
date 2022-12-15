@@ -1,0 +1,27 @@
+Bubble Sort (descending order)
+easy
+asked in interviews by 17 companies
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+Given an array, sort the array in reverse order by simply swapping its adjacent elements.
+
+Input
+First line of the input contains an integer, N, which denotes the length of the array. Next N inputs are elements of the array that is to be sorted in descending order.
+
+Constraints
+1<=N<=1000
+-10000<=Arr[i]<=100000
+
+Output
+Output sorted array in descending order where each element is space separated.
+
+Example
+Sample Input:
+6
+3 1 2 7 9 87
+
+Sample Output:
+87 9 7 3 2 1
