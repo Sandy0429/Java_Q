@@ -1,0 +1,31 @@
+Second maximum difference
+medium
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+Given an array of n integers. Print the second maximum difference between any two numbers in the array.
+
+Input
+First line contains n.
+Next line contains n space separated integers.
+
+Constraints
+3 <= n <= 105
+1 <= arr[i] <= 109
+
+Output
+A single integer denoting the answer.
+
+Example
+Input:
+5
+3 1 4 6 9
+
+Output:
+6
+
+Explanation :
+Difference between 1 and 9 is 8.
+Difference between 3 and 9 is 6.
