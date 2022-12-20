@@ -16,12 +16,16 @@ class Main {
             arr[i] = scn.nextInt();
         }
 
-       System.out.println( mergeSort(arr, 0, arr.length -1));
-        // System.out.println(counter);
-    }
+       System.out.println( mergeSort(arr, 0, arr.length -1));//either this or below one both will give the same output
+       
+       
+/*      
+      mergeSort(arr, 0, arr.length -1);
+      System.out.println(counter);
+  */  }
 
 ///-----------------------------------mergeSort------------------------
- static int inversion = 0;
+ static long counter = 0;
       public static long mergeSort(int[] arr, int left, int right) {
 //        base condition
 
