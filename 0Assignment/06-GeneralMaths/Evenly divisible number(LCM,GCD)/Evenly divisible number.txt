@@ -1,0 +1,29 @@
+Evenly divisible number
+easy
+
+asked in interviews by 1 company
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+Given an integer N. Find the smallest positive number that is evenly divisible by all numbers between 1 to N(inclusive).
+
+Input
+Only line will contain N.
+
+Constraints
+1 ≤ N ≤ 1000
+
+Output
+A single integer denoting the answer.
+
+Example
+Input:
+6
+
+Output:
+60
+
+Explanation:
+No other number smaller than 60 is divisible by all {1, 2, 3, 4, 5, 6}.
