@@ -1,0 +1,30 @@
+sum of two numbers
+easy
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+You are given three random integers, determine if one of them is sum of the other two.
+
+Input
+only line will contains three integers a, b and c.
+
+Constraints
+1 <= a, b, c <= 108
+
+Output
+print "YES" / "NO".
+
+Example
+Input:
+2 5 3
+
+output:
+YES
+
+Input:
+2 5 6
+
+output:
+NO
