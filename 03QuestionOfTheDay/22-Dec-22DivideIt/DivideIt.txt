@@ -1,0 +1,35 @@
+Divide it
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+Newton has an array containing 12 integers from 1 to 12. But later he divides it into 3 arrays in the following manner.
+First array - 1 3 5 7 8 10 12
+Second array - 4 6 9 11
+Third array - 2
+
+Given two integers a and b (1 ≤ a < b ≤ 12). Find whether these two integers belong to the same array or not.
+
+Input
+The input contains two integers x and y.
+
+Constraints
+1 ≤ x < y ≤ 12
+
+Output
+If x and y belong to the same group, print Yes; otherwise, print No.
+
+Example
+Sample Input 1
+1 3
+
+Sample Output 1
+Yes
+
+
+Sample Input 2
+2 4
+
+Sample Output 2
+No
