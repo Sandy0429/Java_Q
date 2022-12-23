@@ -1,0 +1,33 @@
+Transpose Matrix
+asked in interviews by 3 companies
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+Given a 2D integer array matrix or size n x n, print the transpose of the given matrix.
+
+The transpose of a matrix is the matrix flipped over its main diagonal, switching the matrix's row and column indices.
+
+Input
+The first line of the input contains one integer, n, representing the size of the matrix. After that, n lines follow with n integers in each line representing the elements of the matrix.
+
+Constraints
+n == matrix.length
+1 ≤ n ≤ 1000
+-109 ≤ matrix[i][j] ≤ 109
+
+Output
+Output the transposed matrix after performing the operation
+
+Example
+Sample input:
+3
+1 2 3
+4 5 6
+7 8 9
+
+Sample Output:
+1 4 7
+2 5 8
+3 6 9
