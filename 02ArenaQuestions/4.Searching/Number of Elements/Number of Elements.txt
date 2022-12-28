@@ -1,0 +1,35 @@
+Number of Elements
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+You are given the following
+- An Array A of size N
+- An integer h
+
+Your task is to print number of elements in A that are greater than h. You are given a total of K such tasks.
+
+Input
+The first line contains N denoting the size of array
+The next line contains N space- separated integer denoting the elements of array A.
+The next line contains an integer K denoting the number of tasks.
+The next line contains an integer h.
+
+Constraints
+1 <= N <= 1e5
+1 <= A[i] <= 1e9
+1 <= K <= 1e5
+1 <= h <= 1e9
+
+Output
+For each task, print the number of elements of A that are greater than h.
+
+Example
+Sample Input:
+5
+1 5 3 2 4
+1
+2
+
+Sample Output :
+3
