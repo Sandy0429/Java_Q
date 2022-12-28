@@ -1,0 +1,27 @@
+Search in rotated sorted array
+asked in interviews by 2 companies
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+You have an array sorted in non- decreasing order and an element key. you have to find whether the key is present inside your array or not.
+
+Input
+the first line contains a single element N(size of our array)
+The next line contains N space- separated integer A[i].
+The next line contains a single integer key.
+
+Output
+determine whether the key is present in our array or not.
+
+Example
+Sample Input 1:
+8
+5 6 7 8 1 2 3 4
+7
+
+Sample Output 1:
+1
+
+Explanation:
+7 present at 3rd index.
