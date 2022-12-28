@@ -1,0 +1,28 @@
+Check if prime
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+Given an integer, print whether that integer is a prime number or not.
+
+Input
+First line of input contains an integer T, showing the number of test cases. Every test case is a single integer A.
+
+Constraints
+1 <= T <= 100
+1 <= A <= 10^8
+
+Output
+If the given integer is prime, print 'Yes', else print 'No'.
+
+Example
+Sample Input
+3
+5
+9
+13
+
+Output
+Yes
+No
+Yes
