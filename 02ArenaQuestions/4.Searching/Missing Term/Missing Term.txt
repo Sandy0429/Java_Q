@@ -1,0 +1,36 @@
+Missing Term
+
+asked in interviews by 6 companies
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+Given a sequence of n numbers such that the difference between the consecutive terms is constant, find the missing term in logarithmic time. Assume that the first and last elements are always part of the input sequence.
+
+Input
+First line of input contains a single integer T number of test cases ,second line consist integer N, third line contains N space separated integers depicting the values of array.
+
+Constraints:-
+1 <= T <=1000
+1 < = N < = 20000
+-10^6 < = Arr[i] < = 10^6
+
+Output
+Print the missing integer in the given sequence.
+
+Example
+Sample Input:-
+1
+5
+5 7 9 11 15
+
+Sample Output:-
+13
+
+Sample Output:-
+1
+5
+1 4 7 13 16
+
+Sample Output:-
+10
