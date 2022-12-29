@@ -1,0 +1,47 @@
+Perfect Square
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+There are Q queries and for each query you are given a positive integer N. Find whether N is a perfect square or not.
+
+Expected Space Complexity: O(1)
+
+Input
+First line contains an integer Q - the number of queries.
+Q lines follow, each line containing a single integer N.
+
+Constraints
+1 <= Q <= 10^5
+1 <= Ai <= 10^9
+
+Output
+Print Q lines. Each line should contain either "YES" or "NO".
+
+Example
+Sample Input 1:
+3
+1
+2
+4
+
+Output
+YES
+NO
+YES
+
+Explanation:
+1 and 4 are perfect squares.
+
+Sample Input 2:
+2
+144
+63
+
+Output
+YES
+NO
+
+Explanation:
+12 * 12 = 144
