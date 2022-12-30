@@ -1,0 +1,30 @@
+Sum Of All Sub-Arrays
+
+asked in interviews by 1 company
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+There is an integer array nums having n integers, given as input. Find the sum of all subarrays of given array nums and Return it.
+
+Input
+There is an integer n (size of array nums) given as input.
+In the Second line, n space-separated integers are given as input.
+
+Constraints
+1 ≤ n ≤ 105
+0 ≤ nums[i] ≤ 5*104
+0 ≤ i ≤ n-1
+
+Output
+Return the sum of all the subarrays of given array nums.
+
+Example
+Sample Input:
+3
+1 2 3
+Sample Output:
+20
+
+Explanation :
+{1} + {2} + {3} + {2 + 3} + {1 + 2} + {1 + 2 + 3} = 20
