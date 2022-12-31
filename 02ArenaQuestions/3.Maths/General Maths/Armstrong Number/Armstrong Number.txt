@@ -1,0 +1,29 @@
+Armstrong Number
+asked in interviews by 5 companies
+
+Problem Statement
+Given a number N, you need to check whether the given number is Armstrong number or not. Now what is Armstrong number let us see below:
+A number is said to Armstrong if it is equal to sum of cube of its digits.
+
+Input
+User task:
+Since this is a functional problem you don't have to worry about the input. You just have to complete the function isArmstrong() which contains N as a parameter.
+
+Constraints:
+1 <= N <= 10^4
+
+Output
+You need to return "true" if the given number is an Armstrong number otherwise "false"
+
+Example
+Sample Input:
+1
+
+Sample Output:
+true
+
+Sample Input:
+147
+
+Sample Output:
+false
