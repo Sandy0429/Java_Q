@@ -1,0 +1,32 @@
+Average marks
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+Given the marks of N students, your task is to calculate the average of the marks obtained.
+
+Input
+First line of input contains a single integer N. The next line contains N space separated integers containing the marks of the students.
+
+Constraints:-
+1 <= N <= 1000
+1 <= marks <= 1000
+
+Output
+Print the floor of the average of marks obtained.
+
+Example
+Sample Input:-
+4
+1 2 3 4
+
+Sample Output:-
+2
+
+Sample Input:-
+3
+5 5 5
+
+Sample Output:-
+5
