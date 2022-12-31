@@ -1,0 +1,31 @@
+Area of Circle
+
+Problem Statement
+Given the radius of the circle, your task is to calculate its area.
+
+Note:-
+(i) take π as 3.14.
+(ii) Print the area up to 2 decimal places.
+
+Input
+User Task:
+Since this will be a functional problem, you don't have to take input. You just have to complete the function Area() that takes the radius of the circle as the parameter.
+
+Constraints:
+1 < radius <=98
+
+Output
+Return the area of the circle.
+
+Example
+Sample Input:
+7
+
+Sample Output:
+153.86
+
+Sample Input:
+14
+
+Sample Output:
+615.44
