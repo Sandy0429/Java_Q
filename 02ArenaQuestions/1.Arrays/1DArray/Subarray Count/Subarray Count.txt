@@ -1,0 +1,33 @@
+Subarray Count
+
+asked in interviews by 1 company
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+You are given an array of integers, You have to print the total number of non-empty subarray count of an array.
+
+Input
+The first line of the input contains a single integer N denoting the size of an array.
+The second line of the input contains space-separated integers A1, A2,. , An.
+
+Constraints
+1 ≤ N ≤ 105
+1 ≤ A[i] ≤ 105
+
+Note: Use long for big multiplications.
+
+Output
+Print the count of the total number of subarrays in an array.
+
+Example
+Sample Input
+3
+1 2 3
+
+Sample Output
+6
+
+Explanation
+[1], [2], [3], [1, 2], [2, 3], [1, 2, 3]
+Hence the total number of non empty subarrays are 6.
