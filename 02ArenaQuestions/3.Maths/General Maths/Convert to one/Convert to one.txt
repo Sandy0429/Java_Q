@@ -1,0 +1,28 @@
+Convert to one
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+Given a positive integer N. You can either multiply this integer by 2 or divide it by 6 (if N is fully divisible by 6) in one move. Find the minimum number of moves to convert N to 1. Print -1, if it is not possible.
+
+Input
+First and the only line of input contains an integer N.
+
+Constraints
+1 <= N <= 109
+
+Output
+Print the minimum number of moves to convert N to 1. Print -1, if it is not possible.
+
+Example
+Sample Input:
+18
+
+Sample Output:
+3
+
+Explaination:
+In the first move, we multiply 18 by 2, N = 36.
+Now we divide it by 6, N = 6.
+We again divide it by 6, N = 1.
