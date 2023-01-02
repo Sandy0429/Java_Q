@@ -1,0 +1,33 @@
+Zero sum
+
+Time Limit: 2 sec
+Memory Limit: 128000 kB
+
+Problem Statement
+Given an integer N, your task is to print an array of N elements such that:-
+* Their sum is 0
+* All elements are distinct
+* Difference between maximum and minimum element of the array should be smallest
+
+Input
+Input contains a single integer N.
+
+Constraints:-
+1 < = N < = 100000
+
+Output
+Print the lexicographically smallest array possible.
+i.e Suppose your ans is {1 -1 2 -2 } then lexicographically smallest array will be {-2 -1 1 2}
+
+Example
+Sample Input:-
+3
+
+Sample Output:-
+-1 0 1
+
+Sample Input:-
+2
+
+Sample Output:-
+-1 1
